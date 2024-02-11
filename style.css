@@ -54,3 +54,8 @@ button {
 button:active {
     background-color: #7296c1;
 }
+
+#list-el {
+    display: flex;
+    flex-wrap: wrap;
+}
